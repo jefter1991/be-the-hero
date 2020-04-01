@@ -1,0 +1,4 @@
+knex.js: usado para controlar o banco de dados
+nodemon: usado para que o node inicie sozinho
+insomnia: testar as requisições GET,  POST, etc
+cors: segurança da aplicação
