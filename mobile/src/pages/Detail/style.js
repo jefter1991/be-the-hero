@@ -16,10 +16,11 @@ export default StyleSheet.create({
   },
 
   incident:{
-    marginTop:48,
+    marginTop:30,
     padding:24,
     borderRadius:8,
-    backgroundColor:"#FFF"
+    backgroundColor:"#FFF",
+    marginBottom:10
   },
 
   incidentPropety:{
